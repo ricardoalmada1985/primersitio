@@ -8,8 +8,7 @@ pruebaimagen.onclick = function(){
     }
 
 }
-
-let elBoton= document.querySelector('button');
+/*let elBoton= document.querySelector('button');
 let elTitulo= document.querySelector('h1');
 function establecenombreUsuario(){
     let miNombre = prompt('Por favor, ingresa tu nombre');
@@ -31,3 +30,4 @@ if (!localStorage.getItem('nombre')){
 elBoton.onclick= function(){
     establecenombreUsuario();
 }
+*/
