@@ -8,6 +8,7 @@ pruebaimagen.onclick = function(){
     }
 
 }
+
 let elBoton= document.querySelector('button');
 let elTitulo= document.querySelector('h1');
 function establecenombreUsuario(){
